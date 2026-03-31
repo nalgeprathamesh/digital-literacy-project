@@ -1,4 +1,4 @@
-# Digital Literacy Project Report
+# Digital Literacy Project
 
 ## 👤 Student Information
 
